@@ -152,7 +152,7 @@
 
 	});
 
-	var finalDate = '2017/04/14';
+	var finalDate = '2018/01/20';
 
 	$('div#counter').countdown(finalDate)
    	.on('update.countdown', function(event) {
